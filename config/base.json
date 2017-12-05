@@ -1,0 +1,6 @@
+{
+  "path" : {
+    "static" : "static/"
+  },
+  "port" : 3000
+}

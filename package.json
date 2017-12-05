@@ -1,0 +1,22 @@
+{
+  "name": "remote-server",
+  "version": "1.0.0",
+  "description": "my linux node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tingxu-wang/remote-server.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "tingxu.wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tingxu-wang/remote-server/issues"
+  },
+  "homepage": "https://github.com/tingxu-wang/remote-server#readme"
+}
